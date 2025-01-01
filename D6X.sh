@@ -246,7 +246,7 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"hello everyone"
 sleep 2
 echo $i"D6X "
 sleep 2
