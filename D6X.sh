@@ -43,7 +43,7 @@ echo $i"|"$me"18"$i" |"$cy" install req              "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"mu6tx"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"mu6tx"$bi"]"$me"======"$bi"["$i""Choose a number""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
