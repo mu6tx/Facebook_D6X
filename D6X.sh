@@ -14,8 +14,8 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy" D6X mu6tx"$i"                                    |"
 echo $i" |"$me"──────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" by:"$ku" mu6tx"$i"                               |"
-echo $i" |"$pu" telegram channel:"$ku" https://t.me/D6X_mu6tx"$i"|"
+echo $i" |"$pu" by:"$ku" mu6tx"$i"                                  |"
+echo $i" |"$pu" telegram channel:"$ku" https://t.me/D6X_mu6tx"$i"   |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
